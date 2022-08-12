@@ -136,3 +136,64 @@
     width: 100%;
     height: 100%
 }
+.button_get {
+    /* text-align: center; */
+    /* border: none; */
+    
+    /* float: left; */
+    font-size: 16px;
+    color: #f6f8f8;
+    background-color: #4bc5b8;
+    text-align: center;
+    /* justify-content: center; */
+    padding: 10px 0;
+    border-radius: 2px;
+    margin: 0 10px 0 0;
+    /* text-decoration: none; */
+    width: 200px;
+    height: auto;
+
+    /* from_sctiom */
+}
+.from_section {
+    width: 100%;
+    height: 550px;
+    float: left;
+    background-image: url(../img/content/contact-bg.png);
+    /* background-size: 100%; */
+    background-repeat: no-repeat;
+    padding-bottom: 150px;
+}
+.from_text {
+    font-size: 30px;
+}
+.from_box {
+    margin-top: 100px;
+    width: 100%;
+    float: left;
+    background-color: #f1fafb;
+    height: 400px;
+    padding: 30px;
+    box-sizing: border-box;
+    display: block;
+    
+}
+.book_text{
+    display: block;
+    text-align: center;
+    justify-content: center;
+}
+/* "footer_section */
+
+
+.footer_butoon{
+    border: none;
+    width: 150px;
+    float: left;
+    font-size: 16px;
+    color: #f6f8f8;
+    background-color: rgb(43, 166, 197);
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 2px;
+    margin: 0 10px 0 0;}
